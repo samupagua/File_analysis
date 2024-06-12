@@ -1,4 +1,4 @@
-**File analysis**
+#File analysis
 
 Este script en Bash proporciona varias funciones útiles para realizar tareas comunes en sistemas Linux. Puedes buscar archivos en el sistema, ejecutar reemplazos de parámetros en archivos y conocer el tamaño de un archivo.
 
